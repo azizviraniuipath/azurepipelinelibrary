@@ -22,4 +22,3 @@ steps:
   inputs:
     orchestratorConnection: 'UiPathOrchestratorConnection'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
-    folderName: 'DevOps'
